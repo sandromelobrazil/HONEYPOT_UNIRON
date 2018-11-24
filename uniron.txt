@@ -1,0 +1,11 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/ninjadev/estudos_python/HONEYPOT_UNIRON
+## $ hashdeep pos000.pcap pos001.pcap pos002.pcap pos003.pcap pos004.pcap pos005.pcap
+## 
+311296,7280d814d7cdb95a1dcc38f5046e5f66,3c63ccc75352cfa70c471e8516590786899d8ed012fd7c9a1d2d8d505d05214d,/home/ninjadev/estudos_python/HONEYPOT_UNIRON/pos000.pcap
+102400,93d0ee1dcfaa2b2e69f8e1ee40a29c56,11023e9344e04a7824b9402bcde8f780dfa2b254b19d2e5ce8c5d47039c287b9,/home/ninjadev/estudos_python/HONEYPOT_UNIRON/pos001.pcap
+311296,7280d814d7cdb95a1dcc38f5046e5f66,3c63ccc75352cfa70c471e8516590786899d8ed012fd7c9a1d2d8d505d05214d,/home/ninjadev/estudos_python/HONEYPOT_UNIRON/pos002.pcap
+83337216,25f7bb6f7d67b29c2efe115088012c24,43760efd315c5ad462ba0e4983de27edc702ebe94e5b8d2e8c3033a312b0b2f4,/home/ninjadev/estudos_python/HONEYPOT_UNIRON/pos003.pcap
+1241088,871436b5f71baa0cad0336a7e9344e6b,91ec0b832d2f3646cc32ecc23333871be149d22a623b7fdea372c9c7c61a92c2,/home/ninjadev/estudos_python/HONEYPOT_UNIRON/pos004.pcap
+1110016,7d234106a0bd0fff404d65d4a171825e,a97364c3cbfc12ca436fe2cf1304886e284f87ef51f2efdc45b23b25e95ddefc,/home/ninjadev/estudos_python/HONEYPOT_UNIRON/pos005.pcap
